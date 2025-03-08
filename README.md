@@ -1,9 +1,6 @@
 # Food-Delivery-Time-Prediction
 To predict food delivery times based on customer location, restaurant location, weather, traffic, and other factors
 
-# Food Delivery Time Prediction Model Results Explained
-
-Let me walk you through the key results and insights from this food delivery time prediction model:
 
 ## Linear Regression Model Results
 
